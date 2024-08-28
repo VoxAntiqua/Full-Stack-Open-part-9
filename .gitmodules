@@ -1,0 +1,15 @@
+[submodule "Full-Stack-Open-part-9b"]
+	path = Full-Stack-Open-part-9b
+	url = https://github.com/VoxAntiqua/Full-Stack-Open-part-9b.git
+[submodule "Course-Info-TypeScript"]
+	path = Course-Info-TypeScript
+	url = https://github.com/VoxAntiqua/Course-Info-TypeScript.git
+[submodule "Flight-Diary-Frontend"]
+	path = Flight-Diary-Frontend
+	url = https://github.com/VoxAntiqua/Flight-Diary-Frontend.git
+[submodule "Patientor-Backend"]
+	path = Patientor-Backend
+	url = https://github.com/VoxAntiqua/Patientor-Backend.git
+[submodule "patientor"]
+	path = patientor
+	url = https://github.com/VoxAntiqua/patientor.git
